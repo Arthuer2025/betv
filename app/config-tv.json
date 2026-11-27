@@ -1,10 +1,10 @@
 {
-  "versao": 6,
+  "versao": 7,
   "tema": "",
   "evento": { "titulo": "", "subtitulo": "" },
   "aviso": "",
   "catalogo": "https://raw.githubusercontent.com/Arthuer2025/betv/main/app/canais.json",
   "mensagem": "",
-  "versaoApp": "3.0",
-  "apk": "https://github.com/Arthuer2025/betv/releases/download/tv-v3.0/BetvTV-3.0.apk"
+  "versaoApp": "3.4",
+  "apk": "https://github.com/Arthuer2025/betv/releases/download/tv-v3.4/BetvTV-3.4.apk"
 }
