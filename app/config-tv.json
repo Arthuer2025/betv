@@ -1,0 +1,10 @@
+{
+  "versao": 2,
+  "tema": "",
+  "evento": { "titulo": "", "subtitulo": "" },
+  "aviso": "",
+  "catalogo": "https://raw.githubusercontent.com/Arthuer2025/betv/main/app/canais.json",
+  "mensagem": "Catalogo revalidado: 130 canais fora do ar removidos",
+  "versaoApp": "1.4",
+  "apk": "https://github.com/Arthuer2025/betv/releases/download/tv-v1.4/BetvTV-1.4.apk"
+}

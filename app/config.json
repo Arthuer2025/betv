@@ -1,10 +1,10 @@
 {
-  "versao": 5,
+  "versao": 6,
   "tema": "",
   "evento": { "titulo": "", "subtitulo": "" },
   "aviso": "",
   "catalogo": "https://raw.githubusercontent.com/Arthuer2025/betv/main/app/canais.json",
-  "mensagem": "Nova versao 4.4: corrige a tela esticada, som mais baixo, treno na abertura e tema de Natal. Instale por cima - seus favoritos ficam.",
-  "versaoApp": "4.4",
-  "apk": "https://github.com/Arthuer2025/betv/releases/download/v4.4/Betv-4.4.apk"
+  "mensagem": "Catalogo revalidado: 130 canais fora do ar removidos (1.035 no ar)",
+  "versaoApp": "4.5",
+  "apk": "https://github.com/Arthuer2025/betv/releases/download/v4.5/Betv-4.5.apk"
 }
