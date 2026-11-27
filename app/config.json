@@ -1,10 +1,10 @@
 {
-  "versao": 3,
+  "versao": 4,
   "tema": "",
   "evento": { "titulo": "", "subtitulo": "" },
   "aviso": "",
   "catalogo": "https://raw.githubusercontent.com/Arthuer2025/betv/main/app/canais.json",
-  "mensagem": "Som da abertura mais baixo + vídeo sem esticar + trenó mais lento + tema de Natal automático",
-  "versaoApp": "4.2",
-  "apk": "https://github.com/Arthuer2025/betv/releases/download/v4.2/Betv-4.2.apk"
+  "mensagem": "Atualização agora baixa e instala dentro do app, sem abrir o navegador",
+  "versaoApp": "4.3",
+  "apk": "https://github.com/Arthuer2025/betv/releases/download/v4.3/Betv-4.3.apk"
 }
