@@ -1,10 +1,10 @@
 {
-  "versao": 3,
+  "versao": 4,
   "tema": "",
   "evento": { "titulo": "", "subtitulo": "" },
   "aviso": "",
   "catalogo": "https://raw.githubusercontent.com/Arthuer2025/betv/main/app/canais.json",
-  "mensagem": "Barra ANTENA: TV ao vivo da sua regiao (Globo, SBT, Record, Band)",
-  "versaoApp": "1.6",
-  "apk": "https://github.com/Arthuer2025/betv/releases/download/tv-v1.6/BetvTV-1.6.apk"
+  "mensagem": "",
+  "versaoApp": "1.7",
+  "apk": "https://github.com/Arthuer2025/betv/releases/download/tv-v1.7/BetvTV-1.7.apk"
 }
