@@ -4,7 +4,7 @@
   "evento": { "titulo": "", "subtitulo": "" },
   "aviso": "",
   "catalogo": "https://raw.githubusercontent.com/Arthuer2025/betv/main/app/canais.json",
-  "mensagem": "Versão 4.4: app agora versionado de verdade e atualização baixa/instala dentro do app",
+  "mensagem": "Nova versao 4.4: corrige a tela esticada, som mais baixo, treno na abertura e tema de Natal. Instale por cima - seus favoritos ficam.",
   "versaoApp": "4.4",
   "apk": "https://github.com/Arthuer2025/betv/releases/download/v4.4/Betv-4.4.apk"
 }
