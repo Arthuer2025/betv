@@ -1,10 +1,10 @@
 {
-  "versao": 1,
+  "versao": 2,
   "tema": "",
   "evento": { "titulo": "", "subtitulo": "" },
-  "aviso": "Catálogo atualizado: 1.165 canais, com 138 de filmes e 138 de esportes",
+  "aviso": "",
   "catalogo": "https://raw.githubusercontent.com/Arthuer2025/betv/main/app/canais.json",
-  "mensagem": "Novo catálogo: 138 canais de filmes/séries e 138 de esportes",
-  "versaoApp": "",
-  "apk": ""
+  "mensagem": "Vídeo em tela cheia sem esticar, trenó mais lento na abertura e tema de Natal automático (01/12 a 02/01)",
+  "versaoApp": "4.1",
+  "apk": "https://github.com/Arthuer2025/betv/releases/download/v4.1/Betv-4.1.apk"
 }
